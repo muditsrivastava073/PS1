@@ -1,0 +1,74 @@
+In thermal power plants, the heat energy obtained from combustion of solid fuel (mostly coal) is employed to convert water into steam, this steam is at air mass and temperature.
+This steam is employed to rotate the turbine blade while turbine shaft is connected to the generator. The generator converts the kinetic energy of the turbine impeller into electric energy.
+
+A thermal power plant works on the principle that heat is released by burning fuel which produces (working fluid)  i.e. (steam) from water. The steam so produced runs the turbine coupled to generator which produces electricity.
+A working fluid goes through a repetitive cycle change and this cyclic change involving heat and work is understood as thermodynamic cycle. Thus, a thermodynamic cycle may be a series of operations, involving a heat source, a heat receiver, a machine and working ,9  substance.
+
+Thermal power plants, in general, may work
+on Vapour and Gas Power cycles
+
+Rankine cycle is the theoretical cycle on which steam power plant works. It is a liquid vapour cycle. 
+
+next slide please
+
+ There are two variations of Rankine cycle namely the Reheat cycle and the Regeneration cycle. As the name suggests in reheat cycle the steam is heated twice which leads to an increase in the temperature at which heat is added and keeps the boiler hot which further in1creases the efficiency off the cycle. In case of regenerative cycle feed water is heated from the recent well of condenser by interchange of heat within the system thus improving the efficiency of the system.
+
+Efficiency of a thermal power plant is calculated as the ratio of heat equivalent of electric power generated to the heat produced due to fuel combustion. 
+Major factors affecting overall efficiency of power plants :
+Boiler efficiency
+Cycle efficiency
+Turbine efficiency
+Generator efficiency
+The overall efficiency of thermal power plants is quite low, generally about 40%. 
+....
+
+
+
+
+
+
+
+
+
+
+next slide please
+
+Thermal power plants contribute the highest level of emissions among the power generation sources, causing air quality and other environmental concerns.
+Also, these plants have the highest age with an average approaching 40 years.  These older coal and gas plants contain older designs and technologies designed for fixed baseload operation.  Operating at partial loads exacerbates many issues.
+
+Thermal Power is the main source of electricity generation in India. It stands at 230.6 GW out of which 198.5 is from coal alone. According to the new standards thermal power plants are expected to cut emissions and usage of water measurably
+
+To overcome these issues and increase the efficiency of the plant we need new equipment with upgraded components and new technologies.
+
+
+next slide
+
+
+Some of the latest technologies aroundd the world that are being implemented are:
+
+AdvX™ Heat Recovery Technology
+
+•	AdvX™Auxiliary Heat technology is built to recover and utilize additional heat from flue gas, maximizing efficiency and saving cost significantly in both the short and long-term.
+•	AdvX™ Stack Gas Reheat is the most efficient way to clean and dry stack. The AdvX™ Stack Gas Reheat system will capture and utilize excess heat from flue gas, enhancing the operational efficiency and add to cost saving significantly.
+•	AdvX™ Upgrade solutions are the easie st way to improve thermal plant’s efficiency. The technology has been purposefully designed and built to enable the most efficient operation of thermal plants. With advanced configurations that increase efficiency with a low draft loss, AdvX™Upgrade Solutions push boundaries so that thermal plants can reach their goals.
+
+Ultra super critical (USC) conditioning
+•	For conventional thermal power plants, each unit capacity has been increased and high-temperature and high-pressure steam conditions have been promoted to improve the thermal efficiency.
+•	The Hirono No. 5 Thermal Power Station of Tokyo Electric Power Company is a coal-fired thermal power plant adopting the ultra super critical (USC) conditions of 24.5 MPa × 600/600°C, the highest level in the world, and has continued highly reliable operation since it started commercial operation in July, 2004.
+•	This most sophisticated coal-fired thermal power plant has the efficiency of 43% at generator terminal and reduces CO2 emissions intensity by 3% of conventional plants.
+
+next slide
+
+
+Digitalization Technology
+•	Continuous combustion tuning with artificial intelligence
+•	Turbine operational optimization in real time using a combination of first principle analytics and machine learning
+•	Predictive maintenance to avoid unplanned downtime using machine learning
+•	Reducing stresses during variation on load to avoid failures and reduce maintenance needs
+•	Remote monitoring for visibility and analysis
+
+
+Oxyfuels are also being tested to provide lower emissions and increased power output.
+The oxygen-fired pulverised coal power plant technology assists in removing completely (reported: 90%  the CO2 generated in the combustion process with very little air pollutant.
+
+over to u sid
